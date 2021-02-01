@@ -13,3 +13,9 @@ img {
     display: auto;
 
 }
+
+p {
+    color: green;
+    background-color: aqua;
+    border-color: blueviolet;
+}
